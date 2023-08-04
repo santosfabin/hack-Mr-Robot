@@ -7,7 +7,7 @@
 ![Untitled](Untitled.png)
 
 ```bash
-	sudo openvpn file.ovpn
+sudo openvpn file.ovpn
 ```
 
 ![Untitled](Untitled%201.png)
